@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Errors in programs/Fix compile-time errors/out/
+/Topics/Errors in programs/Fix compile-time errors/out/production/classes/
